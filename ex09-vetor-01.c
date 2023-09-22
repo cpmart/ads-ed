@@ -2,6 +2,7 @@
 #include <stdlib.h> //acessar a função srand()
 #include <time.h>   //pegar o time da máquina
 #define N 5
+
 int main(){
     int vet[N], i=25;
 
